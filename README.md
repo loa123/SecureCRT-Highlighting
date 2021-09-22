@@ -1,4 +1,4 @@
-# SecureCRT-Highlighting
+# SecureCRT-Highlighting,语法高亮
 CRT高亮字体颜色，含Cisco和ZTE
 SecureCRT 7.3以上可用
 
